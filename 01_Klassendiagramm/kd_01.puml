@@ -4,7 +4,7 @@
 class Kunde{
     -name: String
     +getName(): String
-
+    +setName(String):void
 
 
 
